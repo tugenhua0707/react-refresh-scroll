@@ -1,0 +1,12 @@
+* {margin:0; padding:0;}
+.tableView {
+  height: 200px;
+  border: 1px solid #ccc;
+  overflow-y: scroll;
+}
+.tableView p {
+  width: 90%;
+  height: 24px;
+  line-height: 24px;
+  text-align: center;
+}
